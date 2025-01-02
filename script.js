@@ -6,3 +6,7 @@ function alertThingsFunct()
 }
 
 alertThingsFunct();
+
+const a = true;
+
+const b = false;
